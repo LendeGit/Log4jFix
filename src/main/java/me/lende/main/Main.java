@@ -9,12 +9,10 @@ public final class Main extends JavaPlugin {
     public void onEnable() {
         Bukkit.getPluginManager().registerEvents(new Log4jFix(), this);
         System.out.println("[Log4jFix] Plugin is now enabled!");
-
     }
 
     @Override
     public void onDisable() {
         System.out.println("[Log4jFix] Plugin is now disabled!");
-        // Plugin shutdown logic
     }
 }
