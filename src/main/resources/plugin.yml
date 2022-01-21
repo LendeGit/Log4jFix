@@ -1,0 +1,5 @@
+name: Log4jFix
+version: '${project.version}'
+main: me.lende.main.Main
+authors: [ Lende ]
+description: This plugin fixes the Log4j exploit from your server.
