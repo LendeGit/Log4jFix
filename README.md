@@ -4,6 +4,4 @@ This is a Minecraft plugin that fixes the Log4j exploit from your server. It is 
 
 **Important**
 
-Log4jFix is forcefully protecting your server from a Log4j Exploit and you **can't** send **{** or **}** to chat.
-
-**The best way to fix the Log4j exploit is updating your server to the latest version**
+Log4jFix is forcefully protecting your server from a Log4j Exploit and you **can't** send **{** or **}** to chat. **The best way to fix the Log4j exploit is updating your server to the latest version**
