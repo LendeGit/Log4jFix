@@ -14,6 +14,7 @@ public class Log4jFix implements Listener {
             event.setCancelled(true);
             System.out.println(event.getPlayer().getName() + " tried to use Log4j exploit. Their message have been blocked from chat!");
             player.sendMessage("§cThe Log4j exploit is already patched on this server!");
+            // More coming soon!
         }
     }
 }
