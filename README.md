@@ -8,4 +8,4 @@ Log4jFix is forcefully protecting your server from a Log4j Exploit and you **can
 
 **How to install?**
 
-Just download the plugin on the releases page and put the plugin to plugins folder! Simple!
+Just download the plugin on the releases page and put the plugin to plugins folder and restart the server! Simple!
